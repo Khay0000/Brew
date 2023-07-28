@@ -1,0 +1,155 @@
+@media screen and (max-width: 480px) {
+    .site-motto img{
+        width: 15rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin:auto;
+    }
+    .our-coffee{
+        padding: 1rem;
+        margin: 1rem;
+    }
+    .site-motto p{
+        padding: 1.5rem;
+    }
+    #brew-vision{
+        flex-direction: column;
+    }
+    #brew-vision .vision-1 p,.vision-2 p{
+        font-size: 1.2rem;
+        line-height: 1.5;
+    }
+    .coffee-img img{
+        width: 8rem;
+        margin-left: 2.8rem;
+        margin-bottom: 1rem;
+    }
+    .coffees{
+        flex-direction: column;
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 4rem;
+    }
+    .ameriacno-special{
+
+    }
+    #community{
+        flex-wrap: wrap;
+    }
+    .community-text h3{
+        width: 100%;
+    }
+    .testimony{
+        flex-direction: column;
+    }
+    .community-img{
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin:auto;
+    }
+    .community-img img{
+        width: 2rem;
+        margin-top: 3rem;
+    
+    }
+    #community-text-testimony{
+        width: 100%;
+        margin: 3rem;
+        margin-top: 3rem;
+    }
+    #sponsor{
+        flex-wrap: wrap;
+    }
+    .faq-questions{
+        flex-wrap: wrap;
+    }
+    .reviewers{
+        flex-wrap: wrap;
+    }
+    .review,.review3{
+        display: none;
+}
+.get-in-touch-text-form{
+    flex-wrap: wrap;
+}
+.footer-list{
+flex-wrap: wrap;
+margin-bottom: 2rem;
+}
+.search,.icon,.icon img{
+    display: none;
+}
+.get-in-touch-text-form form input{
+    width: 10rem;
+    margin: 5rem;
+}
+.get-in-touch-text-form form input .message{
+    width: 10rem;
+    height: 1rem;
+}
+.mmm button{
+    position: absolute;
+    right: 50%;
+    top:-1rem;
+    margin-left: 1rem;
+}
+#landing-page nav{
+    display: none;
+}
+#landing-page .btn #order-ibtn{
+    display: none;
+}
+#menu .title{
+    font-size: 5rem;
+    position: absolute;
+    color: #fff;  
+    right: 39%;
+    bottom: -0%;
+}
+.all-pastries{
+    flex-wrap: wrap;
+}
+.menu h1{
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.intro{
+    flex-wrap: wrap;
+}
+.core-people{
+    flex-wrap: wrap;
+}
+.lisa,.Olivia,.Andrew,.Morgan{
+    flex-wrap: wrap;
+    padding: 1rem;
+}
+.core-text h2{
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 3rem 1rem 1rem 1rem;
+    color: #D3AD7F;
+}
+.core-text p{
+    text-align: center;
+    padding:0rem 2rem;
+    font-weight: normal;
+}
+.get-in-touch-text p{
+    padding-left: 1rem;
+}
+.footer-list-1{
+    padding-bottom: 2rem;
+}
+}
